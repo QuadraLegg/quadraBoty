@@ -1,4 +1,9 @@
 
+# Developers
+
+- QuadraLegg
+- n1kodim_
+
 # Commands
 ### Для всех пользователей
 
