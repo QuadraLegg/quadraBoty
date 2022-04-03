@@ -1,3 +1,6 @@
+# quadraBot
+
+![quadraBot](/preview.gif)
 
 # Developers
 
