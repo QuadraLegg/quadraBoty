@@ -1,4 +1,4 @@
-# quadraBot 
+# quadraBoty
 
 ![quadraBot](/preview.gif)
 
